@@ -1,0 +1,8 @@
+prefix=/home/robot/pcd2pgm_ws/devel
+
+Name: map_conversion
+Description: Description of map_conversion
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

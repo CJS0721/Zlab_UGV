@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/pcd2pgm_ws/devel/setup.sh

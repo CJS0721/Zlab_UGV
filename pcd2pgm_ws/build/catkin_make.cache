@@ -1,0 +1,2 @@
+Map_Conversion-main:occ_grid_mapping-master:pcd2pgm_package-develop/pcd2pgm:test_pkg
+-DCATKIN_DEVEL_PREFIX=/home/robot/pcd2pgm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robot/pcd2pgm_ws/install -G Unix Makefiles
