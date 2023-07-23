@@ -1,0 +1,18 @@
+footprint: [[-0.225, -0.175], [-0.225, 0.175], [0.225, 0.175], [0.225, -0.175]] ##
+#obstacle detection range
+obstacle_range: 3.0 
+#range of obstacle removal
+raytrace_range: 3.5 
+
+
+#expansible radius
+inflation_radius: 0.2
+#The cost proportion coefficient, the larger the proxy value, the smaller the proxy value
+cost_scaling_factor: 3.0
+
+#map type
+map_type: costmap
+#Sensors required for navigation package
+observation_sources: scan
+#
+scan: {sensor_frame: laser, data_type: LaserScan, topic: scan, marking: true, clearing: true} ##

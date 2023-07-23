@@ -1,0 +1,14 @@
+<launch>
+    <!-- 集成地图服务 -->
+    <include file="$(find navigaiton)/launch/map_server.launch" /> 
+
+    <!-- 启动AMCL节点 -->
+   <!--  <include file="$(find nav)/launch/amcl.launch" />-->
+
+   <!-- 启动NDT节点 -->
+    <!-- <include file="$(find ndt_localizer)/launch/ndt_localizer.launch" /> -->
+
+    <!-- 运行move_base节点 -->
+    <include file="$(find navigaiton)/launch/move_base.launch" />
+
+</launch>

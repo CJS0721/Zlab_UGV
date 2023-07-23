@@ -1,0 +1,9 @@
+global_costmap:
+  global_frame: map  #map coordinates system
+  robot_base_frame: base_link  ##  Robot coordinate system
+
+  update_frequency: 1.0 #Cost map update frequency
+  publish_frequency: 1.0 #Frequency of publishing cost maps
+  transform_tolerance: 0.5 #Time out waiting for coordinate transformation to publish information
+
+  static_map: true # Whether to use a map or map server to initialize the global cost map. If static maps are not used, this parameter is false. For example, when exploring SLAM autonomously

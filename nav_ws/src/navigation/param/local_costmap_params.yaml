@@ -1,0 +1,13 @@
+local_costmap:
+  global_frame: odom ##     Odometer coordinate system
+  robot_base_frame: base_link ##     
+
+  update_frequency: 10.0 #
+  publish_frequency: 10.0 #
+  transform_tolerance: 0.5 #
+
+  static_map: false  #No need for static maps, which can improve navigation performance;
+  rolling_window: true #The default is false, and in a static global map, the map will not change
+  width: 3 # The width unit of the local map is m
+  height: 3 # The height unit of the local map is m
+  resolution: 0.05 ## The resolution unit of a local map is m, which is generally consistent with the resolution of a static map

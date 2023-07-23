@@ -1,0 +1,28 @@
+TrajectoryPlannerROS:
+
+# Robot Configuration Parameters
+  max_vel_x: 0.2 # X maximum  velocity
+  min_vel_x: 0.1 # X minimum velocity
+
+  max_vel_theta:  1.0 # 
+  min_vel_theta: -1.0
+  min_in_place_vel_theta: 1.0
+
+  acc_lim_x: 1.0 # X  acceleration limit 
+  acc_lim_y: 0.0 ##Y  acceleration limit ,Related to the chassis model (McNaim wheel
+  acc_lim_theta: 0.6 # Angular velocity acceleration limit
+
+# Goal Tolerance Parameters，
+#Target tolerance; Within the range of reaching the target point
+  xy_goal_tolerance: 0.10
+  yaw_goal_tolerance: 1.57   # Within 90 degrees of the target direction is sufficient
+
+# Differential-drive robot configuration
+# Is it an omnidirectional mobile robot
+  holonomic_robot: true   ##
+
+# Forward Simulation Parameters
+  sim_time: 0.8
+  vx_samples: 18
+  vtheta_samples: 20
+  sim_granularity: 0.05
