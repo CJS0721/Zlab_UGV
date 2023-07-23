@@ -1,0 +1,1139 @@
+/home/robot/loamlivox_ws/src/loam_livox/source/laser_mapping.hpp   737
+===== This is version of File_logger =====
+Version      : V1.5
+Version info : Add variable restore block, enable turn off/on screen prinf in local block.
+Complie date : Apr 24 2023  21:03:43
+=====           End                  =====
+line resolution 0.100000 plane resolution 0.400000 
+------------------
+Messgage time stamp = 0
+------------------
+Messgage time stamp = 0.000312328
+New added regtime 44.9986
+------------------
+Messgage time stamp = 0.000461578
+New added regtime 44.9986
+***** older update, reject update pose *****
+------------------
+New added regtime 45.0137
+Messgage time stamp = 0.0468979
+------------------
+Messgage time stamp = 0.046962
+New added regtime 45.0335
+------------------
+Messgage time stamp = 0.0470481
+New added regtime 45.0487
+------------------
+New added regtime 45.0663
+Messgage time stamp = 0.0974965
+------------------
+Messgage time stamp = 0.0976071
+New added regtime 45.0835
+------------------
+Messgage time stamp = 0.0976977
+New added regtime 45.0989
+------------------
+New added regtime 45.1139
+Messgage time stamp = 0.14854
+------------------
+Messgage time stamp = 0.148702
+New added regtime 45.1335
+------------------
+Messgage time stamp = 0.148822
+New added regtime 45.149
+------------------
+New added regtime 45.164
+Messgage time stamp = 0.198895
+------------------
+New added regtime 45.1835
+Messgage time stamp = 0.199085
+------------------
+Messgage time stamp = 0.199278
+New added regtime 45.1992
+------------------
+New added regtime 45.2166
+Messgage time stamp = 0.251512
+------------------
+Messgage time stamp = 0.252269
+New added regtime 45.2334
+------------------
+Messgage time stamp = 0.252681
+New added regtime 45.2493
+------------------
+New added regtime 45.2667
+Messgage time stamp = 0.298428
+------------------
+Messgage time stamp = 0.29854
+New added regtime 45.2834
+------------------
+Messgage time stamp = 0.298612
+New added regtime 45.3145
+------------------
+New added regtime 45.3145
+***** older update, reject update pose *****
+Messgage time stamp = 0.347235
+------------------
+Messgage time stamp = 0.347336
+New added regtime 45.3334
+------------------
+Messgage time stamp = 0.347415
+New added regtime 45.3646
+------------------
+New added regtime 45.3646
+***** older update, reject update pose *****
+Messgage time stamp = 0.398328
+------------------
+Messgage time stamp = 0.398481
+New added regtime 45.3971
+------------------
+New added regtime 45.3971
+***** older update, reject update pose *****
+Messgage time stamp = 0.398607
+------------------
+New added regtime 45.4147
+Messgage time stamp = 0.447847
+------------------
+Messgage time stamp = 0.447932
+New added regtime 45.4334
+------------------
+Messgage time stamp = 0.448003
+New added regtime 45.4649
+------------------
+New added regtime 45.4649
+***** older update, reject update pose *****
+Messgage time stamp = 0.498977
+------------------
+Messgage time stamp = 0.49915
+New added regtime 45.4999
+------------------
+Messgage time stamp = 0.499265
+New added regtime 45.4999
+***** older update, reject update pose *****
+------------------
+New added regtime 45.515
+Messgage time stamp = 0.547778
+------------------
+Messgage time stamp = 0.547897
+New added regtime 45.55
+------------------
+Messgage time stamp = 0.548016
+New added regtime 45.55
+***** older update, reject update pose *****
+------------------
+New added regtime 45.5675
+Messgage time stamp = 0.597963
+------------------
+Messgage time stamp = 0.598099
+New added regtime 45.6002
+------------------
+Messgage time stamp = 0.598186
+New added regtime 45.6002
+***** older update, reject update pose *****
+------------------
+New added regtime 45.6153
+Messgage time stamp = 0.646967
+------------------
+Messgage time stamp = 0.647054
+New added regtime 45.6504
+------------------
+Messgage time stamp = 0.647114
+New added regtime 45.6504
+***** older update, reject update pose *****
+------------------
+New added regtime 45.6654
+Messgage time stamp = 0.698547
+------------------
+Messgage time stamp = 0.698647
+New added regtime 45.6834
+------------------
+Messgage time stamp = 0.698726
+New added regtime 45.7005
+------------------
+New added regtime 45.718
+Messgage time stamp = 0.747109
+------------------
+Messgage time stamp = 0.747183
+New added regtime 45.7334
+------------------
+Messgage time stamp = 0.747241
+New added regtime 45.7507
+------------------
+New added regtime 45.7657
+Messgage time stamp = 0.797059
+------------------
+Messgage time stamp = 0.797218
+New added regtime 45.8009
+------------------
+Messgage time stamp = 0.797329
+New added regtime 45.8009
+***** older update, reject update pose *****
+------------------
+New added regtime 45.8159
+Messgage time stamp = 0.847947
+------------------
+Messgage time stamp = 0.848036
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 82 |  use 82 | rate = 100 % 
+
+Solver Summary (v 2.0.0-eigen-(3.3.4)-lapack-suitesparse-(5.1.2)-cxsparse-(3.1.9)-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                            2                        2
+Parameters                                  7                        7
+Effective parameters                        6                        6
+Residual blocks                            73                       73
+Residuals                                 219                      219
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                      1,1
+Schur structure                         3,3,3                    3,3,3
+
+Cost:
+Initial                          2.859624e-02
+Final                            2.570056e-02
+Change                           2.895675e-03
+
+Minimizer iterations                        3
+Successful steps                            3
+Unsuccessful steps                          0
+Line search steps                           0
+
+Time (in seconds):
+Preprocessor                         0.000014
+
+  Residual only evaluation           0.000015 (3)
+    Line search cost evaluation      0.000000
+  Jacobian & residual evaluation     0.000666 (6)
+    Line search gradient evaluation   0.000309
+  Linear solver                      0.000016 (3)
+  Line search polynomial minimization  0.000000
+Minimizer                            0.000740
+
+Postprocessor                        0.000001
+Total                                0.000755
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 5.450692e-12 <= 1.000000e-06)
+
+Last R:-0  0 -0 ,T = 0 0 0
+Curr R:      1.58 -0.0302601    2.77559 ,T = -0.00571556 -0.00981042   0.0380169
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02570| inlier_thr = 0.09 |blk_size = 73 | corner_num = 8 | surf_num = 82 | angle dis = 3.19 | T dis = 0.04 
+New added regtime 45.8459
+------------------
+Messgage time stamp = 0.848132
+Corner  total num 13 |  use 12 | rate = 92 % 
+Surface total num 81 |  use 81 | rate = 100 % 
+
+Solver Summary (v 2.0.0-eigen-(3.3.4)-lapack-suitesparse-(5.1.2)-cxsparse-(3.1.9)-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                            2                        2
+Parameters                                  7                        7
+Effective parameters                        6                        6
+Residual blocks                            75                       75
+Residuals                                 225                      225
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                      1,1
+Schur structure                         3,3,3                    3,3,3
+
+Cost:
+Initial                          3.294876e-02
+Final                            2.713955e-02
+Change                           5.809207e-03
+
+Minimizer iterations                        3
+Successful steps                            3
+Unsuccessful steps                          0
+Line search steps                           0
+
+Time (in seconds):
+Preprocessor                         0.000011
+
+  Residual only evaluation           0.000017 (3)
+    Line search cost evaluation      0.000000
+  Jacobian & residual evaluation     0.000612 (6)
+    Line search gradient evaluation   0.000289
+  Linear solver                      0.000017 (3)
+  Line search polynomial minimization  0.000000
+Minimizer                            0.000671
+
+Postprocessor                        0.000000
+Total                                0.000682
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 1.463338e-10 <= 1.000000e-06)
+
+Last R:      1.58 -0.0302601    2.77559 ,T = -0.00571556 -0.00981042   0.0380169
+Curr R: 4.4182 1.38098 1.98333 ,T = -0.0138558  0.0201907   0.136708
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02714| inlier_thr = 0.09 |blk_size = 75 | corner_num = 12 | surf_num = 81 | angle dis = 3.26 | T dis = 0.10 
+New added regtime 45.8634
+------------------
+Messgage time stamp = 0.897211
+Corner  total num 13 |  use 12 | rate = 92 % 
+Surface total num 81 |  use 81 | rate = 100 % 
+
+Solver Summary (v 2.0.0-eigen-(3.3.4)-lapack-suitesparse-(5.1.2)-cxsparse-(3.1.9)-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                            2                        2
+Parameters                                  7                        7
+Effective parameters                        6                        6
+Residual blocks                            75                       75
+Residuals                                 225                      225
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                      1,1
+Schur structure                         3,3,3                    3,3,3
+
+Cost:
+Initial                          4.365499e-02
+Final                            3.989523e-02
+Change                           3.759761e-03
+
+Minimizer iterations                        3
+Successful steps                            3
+Unsuccessful steps                          0
+Line search steps                           0
+
+Time (in seconds):
+Preprocessor                         0.000013
+
+  Residual only evaluation           0.000015 (3)
+    Line search cost evaluation      0.000000
+  Jacobian & residual evaluation     0.000698 (6)
+    Line search gradient evaluation   0.000295
+  Linear solver                      0.000017 (3)
+  Line search polynomial minimization  0.000000
+Minimizer                            0.000759
+
+Postprocessor                        0.000000
+Total                                0.000773
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 3.195856e-09 <= 1.000000e-06)
+
+Last R: 4.4182 1.38098 1.98333 ,T = -0.0138558  0.0201907   0.136708
+Curr R:4.97058 1.42076 2.05023 ,T = -0.00765096   0.0193793     0.13643
+Iteration time: 15
+Motion blur = 0 | Cost = 0.03990| inlier_thr = 0.10 |blk_size = 75 | corner_num = 12 | surf_num = 81 | angle dis = 0.56 | T dis = 0.01 
+New added regtime 45.8634
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 0.897282
+Corner  total num 11 |  use 9 | rate = 81 % 
+Surface total num 64 |  use 64 | rate = 100 % 
+
+Solver Summary (v 2.0.0-eigen-(3.3.4)-lapack-suitesparse-(5.1.2)-cxsparse-(3.1.9)-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                            2                        2
+Parameters                                  7                        7
+Effective parameters                        6                        6
+Residual blocks                            59                       59
+Residuals                                 177                      177
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                      1,1
+Schur structure                         3,3,3                    3,3,3
+
+Cost:
+Initial                          3.858565e-02
+Final                            3.601227e-02
+Change                           2.573378e-03
+
+Minimizer iterations                        3
+Successful steps                            3
+Unsuccessful steps                          0
+Line search steps                           0
+
+Time (in seconds):
+Preprocessor                         0.000011
+
+  Residual only evaluation           0.000015 (3)
+    Line search cost evaluation      0.000000
+  Jacobian & residual evaluation     0.000619 (6)
+    Line search gradient evaluation   0.000317
+  Linear solver                      0.000020 (3)
+  Line search polynomial minimization  0.000000
+Minimizer                            0.000694
+
+Postprocessor                        0.000001
+Total                                0.000706
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 1.438241e-10 <= 1.000000e-06)
+
+Last R: 4.4182 1.38098 1.98333 ,T = -0.0138558  0.0201907   0.136708
+Curr R:  3.1265 0.395505  1.04351 ,T = 0.0752992 0.0165964 0.0536543
+Iteration time: 15
+Motion blur = 0 | Cost = 0.03601| inlier_thr = 0.10 |blk_size = 59 | corner_num = 9 | surf_num = 64 | angle dis = 1.89 | T dis = 0.12 
+New added regtime 45.8833
+------------------
+Messgage time stamp = 0.897346
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+
+Solver Summary (v 2.0.0-eigen-(3.3.4)-lapack-suitesparse-(5.1.2)-cxsparse-(3.1.9)-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                            2                        2
+Parameters                                  7                        7
+Effective parameters                        6                        6
+Residual blocks                            70                       70
+Residuals                                 210                      210
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                      1,1
+Schur structure                         3,3,3                    3,3,3
+
+Cost:
+Initial                          2.594449e-02
+Final                            2.385412e-02
+Change                           2.090378e-03
+
+Minimizer iterations                        3
+Successful steps                            3
+Unsuccessful steps                          0
+Line search steps                           0
+
+Time (in seconds):
+Preprocessor                         0.000013
+
+  Residual only evaluation           0.000017 (3)
+    Line search cost evaluation      0.000000
+  Jacobian & residual evaluation     0.000712 (6)
+    Line search gradient evaluation   0.000330
+  Linear solver                      0.000018 (3)
+  Line search polynomial minimization  0.000000
+Minimizer                            0.000773
+
+Postprocessor                        0.000001
+Total                                0.000787
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 3.088308e-11 <= 1.000000e-06)
+
+Last R:  3.1265 0.395505  1.04351 ,T = 0.0752992 0.0165964 0.0536543
+Curr R: 173.518 -179.043 -176.903 ,T = -0.00653395      -0.043   0.0150332
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02385| inlier_thr = 0.08 |blk_size = 70 | corner_num = 8 | surf_num = 79 | angle dis = 9.94 | T dis = 0.11 
+New added regtime 45.896
+------------------
+Messgage time stamp = 0.946939
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 86 |  use 86 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.535800e-02, Final cost: 1.331608e-02, Termination: CONVERGENCE
+Last R: 173.518 -179.043 -176.903 ,T = -0.00653395      -0.043   0.0150332
+Curr R: 0.818932 -0.502576   3.33191 ,T =  0.0167705  -0.101614 -0.0686449
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01332| inlier_thr = 0.06 |blk_size = 76 | corner_num = 8 | surf_num = 86 | angle dis = 7.33 | T dis = 0.10 
+New added regtime 45.9136
+------------------
+Messgage time stamp = 0.947015
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 58 |  use 58 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.514408e-02, Final cost: 2.371549e-02, Termination: CONVERGENCE
+Last R: 0.818932 -0.502576   3.33191 ,T =  0.0167705  -0.101614 -0.0686449
+Curr R: 177.503 -179.727  -176.47 ,T =  0.0188223 -0.0645319  0.0150647
+Iteration time: 5
+Motion blur = 0 | Cost = 0.02372| inlier_thr = 0.09 |blk_size = 54 | corner_num = 9 | surf_num = 58 | angle dis = 3.34 | T dis = 0.09 
+New added regtime 45.9333
+------------------
+Messgage time stamp = 0.947071
+Corner  total num 5 |  use 5 | rate = 100 % 
+Surface total num 90 |  use 90 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.984473e-02, Final cost: 1.806485e-02, Termination: CONVERGENCE
+Last R: 177.503 -179.727  -176.47 ,T =  0.0188223 -0.0645319  0.0150647
+Curr R: 176.741 -179.361 -177.024 ,T = -0.0053788  -0.022493 -0.0684709
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01806| inlier_thr = 0.07 |blk_size = 77 | corner_num = 5 | surf_num = 90 | angle dis = 1.01 | T dis = 0.10 
+New added regtime 45.9462
+------------------
+Messgage time stamp = 0.997161
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 63 |  use 63 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.660593e-02, Final cost: 1.500167e-02, Termination: CONVERGENCE
+Last R: 176.741 -179.361 -177.024 ,T = -0.0053788  -0.022493 -0.0684709
+Curr R: 0.768184 -0.453584   2.97492 ,T = 0.0100455  -0.10712 -0.163743
+Iteration time: 12
+Motion blur = 0 | Cost = 0.01500| inlier_thr = 0.08 |blk_size = 56 | corner_num = 6 | surf_num = 63 | angle dis = 4.05 | T dis = 0.13 
+New added regtime 45.9833
+------------------
+Messgage time stamp = 0.997232
+Corner  total num 7 |  use 7 | rate = 100 % 
+Surface total num 73 |  use 73 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.585310e-02, Final cost: 1.472654e-02, Termination: CONVERGENCE
+Last R: 0.768184 -0.453584   2.97492 ,T = 0.0100455  -0.10712 -0.163743
+Curr R:  176.15   179.85 -177.554 ,T = -0.00270234     0.03964  -0.0238618
+Iteration time: 13
+Motion blur = 0 | Cost = 0.01473| inlier_thr = 0.06 |blk_size = 65 | corner_num = 7 | surf_num = 73 | angle dis = 4.70 | T dis = 0.20 
+New added regtime 45.9963
+------------------
+Messgage time stamp = 0.997289
+Corner  total num 7 |  use 7 | rate = 100 % 
+Surface total num 73 |  use 73 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.014284e-02, Final cost: 1.700467e-02, Termination: CONVERGENCE
+Last R:  176.15   179.85 -177.554 ,T = -0.00270234     0.03964  -0.0238618
+Curr R: 176.041  179.865 -177.439 ,T = -0.00859093   0.0298844  -0.0204891
+Iteration time: 9
+Motion blur = 0 | Cost = 0.01700| inlier_thr = 0.07 |blk_size = 65 | corner_num = 7 | surf_num = 73 | angle dis = 0.16 | T dis = 0.01 
+New added regtime 45.9963
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.04695
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 89 |  use 89 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.504090e-02, Final cost: 2.226612e-02, Termination: CONVERGENCE
+Last R:  176.15   179.85 -177.554 ,T = -0.00270234     0.03964  -0.0238618
+Curr R: 174.934  179.627 -177.764 ,T = 0.0282025 0.0964164  0.016496
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02227| inlier_thr = 0.08 |blk_size = 77 | corner_num = 6 | surf_num = 89 | angle dis = 1.25 | T dis = 0.08 
+New added regtime 46.0138
+------------------
+Messgage time stamp = 1.04705
+Corner  total num 11 |  use 11 | rate = 100 % 
+Surface total num 71 |  use 71 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.899970e-02, Final cost: 2.536382e-02, Termination: CONVERGENCE
+Last R: 174.934  179.627 -177.764 ,T = 0.0282025 0.0964164  0.016496
+Curr R: 178.707  179.196 -177.083 ,T =  0.0156374     0.0419 -0.0173405
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02536| inlier_thr = 0.10 |blk_size = 66 | corner_num = 11 | surf_num = 71 | angle dis = 3.86 | T dis = 0.07 
+New added regtime 46.0488
+------------------
+Messgage time stamp = 1.04711
+Corner  total num 11 |  use 11 | rate = 100 % 
+Surface total num 71 |  use 71 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.441421e-02, Final cost: 1.295389e-02, Termination: CONVERGENCE
+Last R: 178.707  179.196 -177.083 ,T =  0.0156374     0.0419 -0.0173405
+Curr R:   179.2  178.967 -177.516 ,T = 0.0111225 0.0850058 0.0046991
+Iteration time: 2
+Motion blur = 0 | Cost = 0.01295| inlier_thr = 0.07 |blk_size = 66 | corner_num = 11 | surf_num = 71 | angle dis = 0.69 | T dis = 0.05 
+New added regtime 46.0488
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.09699
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 63 |  use 63 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.361442e-02, Final cost: 2.271388e-02, Termination: CONVERGENCE
+Last R: 178.707  179.196 -177.083 ,T =  0.0156374     0.0419 -0.0173405
+Curr R:2.22754 1.46491 2.99022 ,T = -0.0077671 -0.0306033  0.0730414
+Iteration time: 13
+Motion blur = 0 | Cost = 0.02271| inlier_thr = 0.08 |blk_size = 58 | corner_num = 9 | surf_num = 63 | angle dis = 3.59 | T dis = 0.12 
+New added regtime 46.0833
+------------------
+Messgage time stamp = 1.09707
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 63 |  use 63 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.683286e-02, Final cost: 2.524978e-02, Termination: CONVERGENCE
+Last R:2.22754 1.46491 2.99022 ,T = -0.0077671 -0.0306033  0.0730414
+Curr R: 179.027  178.965 -176.961 ,T = -0.000457935   -0.0518395    0.0194909
+Iteration time: 2
+Motion blur = 0 | Cost = 0.02525| inlier_thr = 0.08 |blk_size = 58 | corner_num = 9 | surf_num = 63 | angle dis = 3.24 | T dis = 0.06 
+New added regtime 46.0833
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.09716
+Corner  total num 16 |  use 16 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 3.797318e-02, Final cost: 3.615134e-02, Termination: CONVERGENCE
+Last R:2.22754 1.46491 2.99022 ,T = -0.0077671 -0.0306033  0.0730414
+Curr R: 176.736   -179.9 -176.397 ,T =  0.0273553 -0.0800473 -0.0297509
+Iteration time: 15
+Motion blur = 0 | Cost = 0.03615| inlier_thr = 0.10 |blk_size = 77 | corner_num = 16 | surf_num = 80 | angle dis = 5.75 | T dis = 0.12 
+New added regtime 46.0966
+------------------
+Messgage time stamp = 1.1475
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 62 |  use 62 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.268083e-02, Final cost: 1.086048e-02, Termination: CONVERGENCE
+Last R: 176.736   -179.9 -176.397 ,T =  0.0273553 -0.0800473 -0.0297509
+Curr R:0.000499075    0.394937     3.31459 ,T =  0.0211768 -0.0388706 0.00172807
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01086| inlier_thr = 0.06 |blk_size = 55 | corner_num = 6 | surf_num = 62 | angle dis = 3.33 | T dis = 0.05 
+New added regtime 46.1333
+------------------
+Messgage time stamp = 1.14756
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 62 |  use 62 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.188656e-02, Final cost: 1.089282e-02, Termination: CONVERGENCE
+Last R:0.000499075    0.394937     3.31459 ,T =  0.0211768 -0.0388706 0.00172807
+Curr R: 178.922  179.502 -177.395 ,T =  0.023023 0.0339519 0.0316296
+Iteration time: 10
+Motion blur = 0 | Cost = 0.01089| inlier_thr = 0.06 |blk_size = 55 | corner_num = 6 | surf_num = 62 | angle dis = 1.31 | T dis = 0.08 
+New added regtime 46.1333
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.14767
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 70 |  use 70 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.068243e-02, Final cost: 9.622053e-03, Termination: CONVERGENCE
+Last R:0.000499075    0.394937     3.31459 ,T =  0.0211768 -0.0388706 0.00172807
+Curr R: 178.072 -179.917 -177.288 ,T =    0.016138 -0.00280702  -0.0297482
+Iteration time: 6
+Motion blur = 0 | Cost = 0.00962| inlier_thr = 0.06 |blk_size = 64 | corner_num = 9 | surf_num = 70 | angle dis = 2.09 | T dis = 0.05 
+New added regtime 46.164
+------------------
+Messgage time stamp = 1.1981
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 70 |  use 70 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 7.972671e-03, Final cost: 7.024070e-03, Termination: CONVERGENCE
+Last R: 178.072 -179.917 -177.288 ,T =    0.016138 -0.00280702  -0.0297482
+Curr R: 177.775 -179.975 -177.326 ,T =  0.0120614 0.00261619 -0.0226752
+Iteration time: 0
+Motion blur = 0 | Cost = 0.00702| inlier_thr = 0.05 |blk_size = 64 | corner_num = 9 | surf_num = 70 | angle dis = 0.30 | T dis = 0.01 
+New added regtime 46.164
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.19819
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 61 |  use 61 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.555103e-02, Final cost: 1.429178e-02, Termination: CONVERGENCE
+Last R: 178.072 -179.917 -177.288 ,T =    0.016138 -0.00280702  -0.0297482
+Curr R: 1.76126 0.813694  2.77704 ,T = 0.00670394 -0.0240862  0.0321174
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01429| inlier_thr = 0.08 |blk_size = 54 | corner_num = 6 | surf_num = 61 | angle dis = 3.81 | T dis = 0.07 
+New added regtime 46.1833
+------------------
+Messgage time stamp = 1.19828
+Corner  total num 17 |  use 17 | rate = 100 % 
+Surface total num 76 |  use 76 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.216787e-02, Final cost: 1.152182e-02, Termination: CONVERGENCE
+Last R: 1.76126 0.813694  2.77704 ,T = 0.00670394 -0.0240862  0.0321174
+Curr R: 179.231 -179.585 -176.958 ,T =  0.00919455 -0.00698016  -0.0554334
+Iteration time: 11
+Motion blur = 0 | Cost = 0.01152| inlier_thr = 0.05 |blk_size = 75 | corner_num = 17 | surf_num = 76 | angle dis = 2.84 | T dis = 0.09 
+New added regtime 46.1968
+------------------
+Messgage time stamp = 1.24723
+Corner  total num 7 |  use 7 | rate = 100 % 
+Surface total num 95 |  use 95 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.240018e-02, Final cost: 1.935547e-02, Termination: CONVERGENCE
+Last R: 179.231 -179.585 -176.958 ,T =  0.00919455 -0.00698016  -0.0554334
+Curr R:  178.99 -179.901  -177.44 ,T =   0.0111069  -0.0488142 -0.00618036
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01936| inlier_thr = 0.07 |blk_size = 82 | corner_num = 7 | surf_num = 95 | angle dis = 0.62 | T dis = 0.06 
+New added regtime 46.2143
+------------------
+Messgage time stamp = 1.24731
+Ceres Solver Report: Iterations: 3, Initial cost: 7.210994e-03, Final cost: 6.128659e-03, Termination: CONVERGENCE
+Last R:  178.99 -179.901  -177.44 ,T =   0.0111069  -0.0488142 -0.00618036
+Curr R: 173.352  179.828 -177.637 ,T = 0.00209885  0.0289749 -0.0335164
+Iteration time: 15
+Motion blur = 0 | Cost = 0.00613| inlier_thr = 0.05 |blk_size = 49 | corner_num = 0 | surf_num = 61 | angle dis = 5.65 | T dis = 0.08 
+New added regtime 46.2333
+------------------
+Messgage time stamp = 1.24737
+Corner  total num 7 |  use 7 | rate = 100 % 
+Surface total num 88 |  use 88 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.342676e-02, Final cost: 2.019712e-02, Termination: CONVERGENCE
+Last R: 173.352  179.828 -177.637 ,T = 0.00209885  0.0289749 -0.0335164
+Curr R: 1.58046 0.118968  2.09537 ,T =  0.0191813 -0.0132376 -0.0117015
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02020| inlier_thr = 0.08 |blk_size = 77 | corner_num = 7 | surf_num = 88 | angle dis = 8.25 | T dis = 0.05 
+New added regtime 46.2469
+------------------
+Messgage time stamp = 1.29784
+Corner  total num 5 |  use 5 | rate = 100 % 
+Surface total num 59 |  use 59 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 6.767839e-03, Final cost: 4.330989e-03, Termination: CONVERGENCE
+Last R: 1.58046 0.118968  2.09537 ,T =  0.0191813 -0.0132376 -0.0117015
+Curr R: 3.05401 0.661103  2.64336 ,T = 0.0132135  -0.02395 0.0500044
+Iteration time: 3
+Motion blur = 0 | Cost = 0.00433| inlier_thr = 0.04 |blk_size = 52 | corner_num = 5 | surf_num = 59 | angle dis = 1.67 | T dis = 0.06 
+New added regtime 46.2833
+------------------
+Messgage time stamp = 1.29798
+Corner  total num 11 |  use 11 | rate = 100 % 
+Surface total num 85 |  use 85 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 3.271460e-02, Final cost: 3.044700e-02, Termination: CONVERGENCE
+Last R: 3.05401 0.661103  2.64336 ,T = 0.0132135  -0.02395 0.0500044
+Curr R: 174.477  -179.23 -178.468 ,T = 0.00517631  0.0391306   0.020798
+Iteration time: 15
+Motion blur = 0 | Cost = 0.03045| inlier_thr = 0.08 |blk_size = 77 | corner_num = 11 | surf_num = 85 | angle dis = 8.78 | T dis = 0.07 
+New added regtime 46.297
+------------------
+Messgage time stamp = 1.29805
+Corner  total num 11 |  use 11 | rate = 100 % 
+Surface total num 85 |  use 85 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 3.102190e-02, Final cost: 2.889930e-02, Termination: CONVERGENCE
+Last R: 174.477  -179.23 -178.468 ,T = 0.00517631  0.0391306   0.020798
+Curr R: 175.543 -179.179 -178.069 ,T = 0.00118478  0.0259322  0.0119748
+Iteration time: 8
+Motion blur = 0 | Cost = 0.02890| inlier_thr = 0.08 |blk_size = 77 | corner_num = 11 | surf_num = 85 | angle dis = 1.13 | T dis = 0.02 
+New added regtime 46.297
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.34709
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 70 |  use 70 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 3.235281e-02, Final cost: 2.696326e-02, Termination: CONVERGENCE
+Last R: 174.477  -179.23 -178.468 ,T = 0.00517631  0.0391306   0.020798
+Curr R: 170.945  179.149 -178.095 ,T = 0.00188726  0.0863715   0.209371
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02696| inlier_thr = 0.10 |blk_size = 65 | corner_num = 10 | surf_num = 70 | angle dis = 3.92 | T dis = 0.19 
+New added regtime 46.3145
+------------------
+Messgage time stamp = 1.34716
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 83 |  use 83 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.751278e-02, Final cost: 1.649033e-02, Termination: CONVERGENCE
+Last R: 170.945  179.149 -178.095 ,T = 0.00188726  0.0863715   0.209371
+Curr R:  178.61   -178.8 -176.688 ,T = -0.00499615  -0.0725274  -0.0273605
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01649| inlier_thr = 0.07 |blk_size = 73 | corner_num = 8 | surf_num = 83 | angle dis = 8.06 | T dis = 0.29 
+New added regtime 46.3471
+------------------
+Messgage time stamp = 1.34724
+Corner  total num 12 |  use 12 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.984501e-02, Final cost: 2.610963e-02, Termination: CONVERGENCE
+Last R:  178.61   -178.8 -176.688 ,T = -0.00499615  -0.0725274  -0.0273605
+Curr R:  178.48 -178.882 -177.916 ,T = 0.00266855 0.00457699 -0.0258276
+Iteration time: 9
+Motion blur = 0 | Cost = 0.02611| inlier_thr = 0.09 |blk_size = 73 | corner_num = 12 | surf_num = 79 | angle dis = 1.24 | T dis = 0.08 
+New added regtime 46.3647
+------------------
+Messgage time stamp = 1.3971
+Corner  total num 15 |  use 15 | rate = 100 % 
+Surface total num 61 |  use 61 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 2.505313e-02, Final cost: 2.317206e-02, Termination: CONVERGENCE
+Last R:  178.48 -178.882 -177.916 ,T = 0.00266855 0.00457699 -0.0258276
+Curr R:  178.34 -178.642 -177.835 ,T =  0.0195032  -0.012989 0.00253132
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02317| inlier_thr = 0.09 |blk_size = 61 | corner_num = 15 | surf_num = 61 | angle dis = 0.29 | T dis = 0.04 
+New added regtime 46.3833
+------------------
+Messgage time stamp = 1.3972
+Corner  total num 15 |  use 15 | rate = 100 % 
+Surface total num 61 |  use 61 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.006457e-02, Final cost: 1.878425e-02, Termination: CONVERGENCE
+Last R:  178.34 -178.642 -177.835 ,T =  0.0195032  -0.012989 0.00253132
+Curr R: 178.426 -178.892  -177.98 ,T =   0.0226881 7.96613e-05   0.0180349
+Iteration time: 7
+Motion blur = 0 | Cost = 0.01878| inlier_thr = 0.08 |blk_size = 61 | corner_num = 15 | surf_num = 61 | angle dis = 0.30 | T dis = 0.02 
+New added regtime 46.3833
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.39728
+Corner  total num 11 |  use 11 | rate = 100 % 
+Surface total num 68 |  use 68 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 1.432808e-02, Final cost: 1.328984e-02, Termination: CONVERGENCE
+Last R:  178.34 -178.642 -177.835 ,T =  0.0195032  -0.012989 0.00253132
+Curr R: 175.232 -178.648 -178.051 ,T = -0.00557103    0.047389   0.0497085
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01329| inlier_thr = 0.06 |blk_size = 64 | corner_num = 11 | surf_num = 68 | angle dis = 3.11 | T dis = 0.08 
+New added regtime 46.3972
+------------------
+Messgage time stamp = 1.44712
+Corner  total num 13 |  use 13 | rate = 100 % 
+Surface total num 92 |  use 92 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.447168e-02, Final cost: 2.284127e-02, Termination: CONVERGENCE
+Last R: 175.232 -178.648 -178.051 ,T = -0.00557103    0.047389   0.0497085
+Curr R: 1.79487 -1.32783  2.33223 ,T = -0.0231728 -0.0320971 -0.0455939
+Iteration time: 5
+Motion blur = 0 | Cost = 0.02284| inlier_thr = 0.07 |blk_size = 85 | corner_num = 13 | surf_num = 92 | angle dis = 6.58 | T dis = 0.13 
+New added regtime 46.4147
+------------------
+Messgage time stamp = 1.4472
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 90 |  use 90 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.839339e-02, Final cost: 1.701194e-02, Termination: CONVERGENCE
+Last R: 1.79487 -1.32783  2.33223 ,T = -0.0231728 -0.0320971 -0.0455939
+Curr R: 179.927 -178.118 -177.043 ,T =  0.0143382 -0.0248095  -0.082776
+Iteration time: 10
+Motion blur = 0 | Cost = 0.01701| inlier_thr = 0.06 |blk_size = 77 | corner_num = 6 | surf_num = 90 | angle dis = 2.08 | T dis = 0.05 
+New added regtime 46.4474
+------------------
+Messgage time stamp = 1.44729
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 90 |  use 90 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.345048e-02, Final cost: 2.334292e-02, Termination: CONVERGENCE
+Last R: 179.927 -178.118 -177.043 ,T =  0.0143382 -0.0248095  -0.082776
+Curr R: 178.845 -178.313 -177.576 ,T =  0.0100491  0.0154624 -0.0632668
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02334| inlier_thr = 0.07 |blk_size = 77 | corner_num = 6 | surf_num = 90 | angle dis = 1.21 | T dis = 0.04 
+New added regtime 46.4474
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.49715
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 64 |  use 64 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.344986e-02, Final cost: 1.143275e-02, Termination: CONVERGENCE
+Last R: 179.927 -178.118 -177.043 ,T =  0.0143382 -0.0248095  -0.082776
+Curr R: 177.638 -178.698 -177.523 ,T =   0.0111812  -0.0211543 -0.00411286
+Iteration time: 5
+Motion blur = 0 | Cost = 0.01143| inlier_thr = 0.07 |blk_size = 60 | corner_num = 10 | surf_num = 64 | angle dis = 2.40 | T dis = 0.08 
+New added regtime 46.4832
+------------------
+Messgage time stamp = 1.49723
+Corner  total num 16 |  use 16 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.489028e-02, Final cost: 2.331066e-02, Termination: CONVERGENCE
+Last R: 177.638 -178.698 -177.523 ,T =   0.0111812  -0.0211543 -0.00411286
+Curr R: 178.677 -179.286 -177.564 ,T = -0.00396095  -0.0434114  0.00895135
+Iteration time: 12
+Motion blur = 0 | Cost = 0.02331| inlier_thr = 0.07 |blk_size = 77 | corner_num = 16 | surf_num = 80 | angle dis = 1.20 | T dis = 0.03 
+New added regtime 46.4975
+------------------
+Messgage time stamp = 1.49731
+Corner  total num 16 |  use 16 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.974204e-02, Final cost: 1.813372e-02, Termination: CONVERGENCE
+Last R: 178.677 -179.286 -177.564 ,T = -0.00396095  -0.0434114  0.00895135
+Curr R: 0.725758 -0.584615   2.11958 ,T =  0.00327902  -0.0134375 -0.00334791
+Iteration time: 9
+Motion blur = 0 | Cost = 0.01813| inlier_thr = 0.06 |blk_size = 77 | corner_num = 16 | surf_num = 80 | angle dis = 2.10 | T dis = 0.03 
+New added regtime 46.4975
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.54831
+Corner  total num 5 |  use 5 | rate = 100 % 
+Surface total num 89 |  use 89 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.273287e-02, Final cost: 2.163071e-02, Termination: CONVERGENCE
+Last R: 178.677 -179.286 -177.564 ,T = -0.00396095  -0.0434114  0.00895135
+Curr R: 178.575 -179.991 -177.347 ,T = -0.00840495  -0.0753658   0.0651161
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02163| inlier_thr = 0.07 |blk_size = 76 | corner_num = 5 | surf_num = 89 | angle dis = 0.74 | T dis = 0.06 
+New added regtime 46.515
+------------------
+Messgage time stamp = 1.54842
+Corner  total num 3 |  use 3 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.773098e-02, Final cost: 1.703717e-02, Termination: CONVERGENCE
+Last R: 178.575 -179.991 -177.347 ,T = -0.00840495  -0.0753658   0.0651161
+Curr R: 0.787309 -0.029271   1.62288 ,T = -0.000946959    0.0122468   -0.0172771
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01704| inlier_thr = 0.07 |blk_size = 66 | corner_num = 3 | surf_num = 79 | angle dis = 2.46 | T dis = 0.12 
+New added regtime 46.5332
+------------------
+Messgage time stamp = 1.54852
+Corner  total num 12 |  use 12 | rate = 100 % 
+Surface total num 76 |  use 76 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.795166e-02, Final cost: 1.574962e-02, Termination: CONVERGENCE
+Last R: 0.787309 -0.029271   1.62288 ,T = -0.000946959    0.0122468   -0.0172771
+Curr R:  177.88  179.942 -177.427 ,T = -0.0157762 -0.0161383  -0.023266
+Iteration time: 2
+Motion blur = 0 | Cost = 0.01575| inlier_thr = 0.07 |blk_size = 71 | corner_num = 12 | surf_num = 76 | angle dis = 3.08 | T dis = 0.03 
+New added regtime 46.565
+------------------
+Messgage time stamp = 1.5981
+Corner  total num 3 |  use 3 | rate = 100 % 
+Surface total num 66 |  use 66 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.326768e-02, Final cost: 1.024518e-02, Termination: CONVERGENCE
+Last R:  177.88  179.942 -177.427 ,T = -0.0157762 -0.0161383  -0.023266
+Curr R: 178.264 -179.625  -178.19 ,T =  0.0190198  0.0236604 -0.0743118
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01025| inlier_thr = 0.09 |blk_size = 56 | corner_num = 3 | surf_num = 66 | angle dis = 0.97 | T dis = 0.07 
+New added regtime 46.5832
+------------------
+Messgage time stamp = 1.59818
+Corner  total num 3 |  use 3 | rate = 100 % 
+Surface total num 66 |  use 66 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.546373e-02, Final cost: 1.109121e-02, Termination: CONVERGENCE
+Last R: 178.264 -179.625  -178.19 ,T =  0.0190198  0.0236604 -0.0743118
+Curr R:  179.04 -179.529  -178.06 ,T =  0.0122537  0.0333009 -0.0823512
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01109| inlier_thr = 0.08 |blk_size = 56 | corner_num = 3 | surf_num = 66 | angle dis = 0.79 | T dis = 0.01 
+New added regtime 46.5832
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.5983
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 87 |  use 87 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.175188e-02, Final cost: 1.844240e-02, Termination: CONVERGENCE
+Last R: 178.264 -179.625  -178.19 ,T =  0.0190198  0.0236604 -0.0743118
+Curr R: 178.924  179.641 -176.959 ,T = -0.0166211 -0.0530791 -0.0227439
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01844| inlier_thr = 0.08 |blk_size = 77 | corner_num = 9 | surf_num = 87 | angle dis = 1.59 | T dis = 0.10 
+New added regtime 46.5977
+------------------
+Messgage time stamp = 1.64827
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 74 |  use 74 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.941184e-02, Final cost: 1.669290e-02, Termination: CONVERGENCE
+Last R: 178.924  179.641 -176.959 ,T = -0.0166211 -0.0530791 -0.0227439
+Curr R: 1.51002 0.608341  2.13223 ,T =  0.0151729  0.0820041 -0.0364122
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01669| inlier_thr = 0.08 |blk_size = 65 | corner_num = 6 | surf_num = 74 | angle dis = 2.76 | T dis = 0.14 
+New added regtime 46.6332
+------------------
+Messgage time stamp = 1.64836
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 74 |  use 74 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.150383e-02, Final cost: 2.116266e-02, Termination: CONVERGENCE
+Last R: 1.51002 0.608341  2.13223 ,T =  0.0151729  0.0820041 -0.0364122
+Curr R:  3.3108 0.794882   2.6146 ,T =  0.0177141  0.0269711 -0.0383972
+Iteration time: 15
+Motion blur = 0 | Cost = 0.02116| inlier_thr = 0.08 |blk_size = 65 | corner_num = 6 | surf_num = 74 | angle dis = 1.88 | T dis = 0.06 
+New added regtime 46.6332
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.64845
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 86 |  use 86 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.729271e-02, Final cost: 1.685106e-02, Termination: CONVERGENCE
+Last R: 1.51002 0.608341  2.13223 ,T =  0.0151729  0.0820041 -0.0364122
+Curr R: 179.608  179.494 -177.853 ,T = -0.000306316     0.150879   -0.0190672
+Iteration time: 12
+Motion blur = 0 | Cost = 0.01685| inlier_thr = 0.07 |blk_size = 77 | corner_num = 10 | surf_num = 86 | angle dis = 1.92 | T dis = 0.07 
+New added regtime 46.6478
+------------------
+Messgage time stamp = 1.69828
+Corner  total num 12 |  use 12 | rate = 100 % 
+Surface total num 75 |  use 75 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.424365e-02, Final cost: 1.291745e-02, Termination: CONVERGENCE
+Last R: 179.608  179.494 -177.853 ,T = -0.000306316     0.150879   -0.0190672
+Curr R:0.0452225  0.763738   3.02189 ,T =  0.0112805 -0.0021478  0.0347231
+Iteration time: 3
+Motion blur = 0 | Cost = 0.01292| inlier_thr = 0.08 |blk_size = 70 | corner_num = 12 | surf_num = 75 | angle dis = 1.01 | T dis = 0.16 
+New added regtime 46.6649
+------------------
+Messgage time stamp = 1.69838
+Corner  total num 17 |  use 17 | rate = 100 % 
+Surface total num 77 |  use 77 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 3.444727e-02, Final cost: 3.359396e-02, Termination: CONVERGENCE
+Last R:0.0452225  0.763738   3.02189 ,T =  0.0112805 -0.0021478  0.0347231
+Curr R: 179.605 -179.886 -176.827 ,T = 0.00318384 -0.0121194 -0.0468578
+Iteration time: 1
+Motion blur = 0 | Cost = 0.03359| inlier_thr = 0.09 |blk_size = 76 | corner_num = 17 | surf_num = 77 | angle dis = 1.01 | T dis = 0.08 
+New added regtime 46.6832
+------------------
+Messgage time stamp = 1.69847
+Corner  total num 5 |  use 5 | rate = 100 % 
+Surface total num 70 |  use 70 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.082875e-02, Final cost: 9.081540e-03, Termination: CONVERGENCE
+Last R: 179.605 -179.886 -176.827 ,T = 0.00318384 -0.0121194 -0.0468578
+Curr R: 179.023 -179.753 -177.452 ,T =  0.0170056  0.0710676 -0.0142628
+Iteration time: 15
+Motion blur = 0 | Cost = 0.00908| inlier_thr = 0.06 |blk_size = 61 | corner_num = 5 | surf_num = 70 | angle dis = 0.86 | T dis = 0.09 
+New added regtime 46.6979
+------------------
+Messgage time stamp = 1.74854
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 90 |  use 90 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.705324e-02, Final cost: 1.614131e-02, Termination: CONVERGENCE
+Last R: 179.023 -179.753 -177.452 ,T =  0.0170056  0.0710676 -0.0142628
+Curr R: 179.744 -179.854 -177.419 ,T = 0.00215761  0.0209128  0.0111372
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01614| inlier_thr = 0.07 |blk_size = 81 | corner_num = 10 | surf_num = 90 | angle dis = 0.73 | T dis = 0.06 
+New added regtime 46.7153
+------------------
+Messgage time stamp = 1.74862
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 68 |  use 68 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.299795e-02, Final cost: 1.234454e-02, Termination: CONVERGENCE
+Last R: 179.744 -179.854 -177.419 ,T = 0.00215761  0.0209128  0.0111372
+Curr R: 176.085 -179.698 -176.923 ,T = 0.00866414  0.0151353  0.0136638
+Iteration time: 0
+Motion blur = 0 | Cost = 0.01234| inlier_thr = 0.05 |blk_size = 60 | corner_num = 6 | surf_num = 68 | angle dis = 3.70 | T dis = 0.01 
+New added regtime 46.7332
+------------------
+Messgage time stamp = 1.7487
+Corner  total num 16 |  use 16 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.280964e-02, Final cost: 1.201262e-02, Termination: CONVERGENCE
+Last R: 176.085 -179.698 -176.923 ,T = 0.00866414  0.0151353  0.0136638
+Curr R: 177.914 -179.501 -177.423 ,T =  0.00753403   0.0248064 -0.00555823
+Iteration time: 7
+Motion blur = 0 | Cost = 0.01201| inlier_thr = 0.06 |blk_size = 77 | corner_num = 16 | surf_num = 80 | angle dis = 1.91 | T dis = 0.02 
+New added regtime 46.7654
+------------------
+Messgage time stamp = 1.79828
+Corner  total num 16 |  use 16 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.650065e-02, Final cost: 1.562305e-02, Termination: CONVERGENCE
+Last R: 177.914 -179.501 -177.423 ,T =  0.00753403   0.0248064 -0.00555823
+Curr R:  178.12 -179.442 -177.501 ,T = 0.00100935   0.029517 -0.0117657
+Iteration time: 6
+Motion blur = 0 | Cost = 0.01562| inlier_thr = 0.06 |blk_size = 77 | corner_num = 16 | surf_num = 80 | angle dis = 0.23 | T dis = 0.01 
+New added regtime 46.7654
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.79838
+Corner  total num 13 |  use 13 | rate = 100 % 
+Surface total num 70 |  use 70 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 2.048313e-02, Final cost: 1.953116e-02, Termination: CONVERGENCE
+Last R: 177.914 -179.501 -177.423 ,T =  0.00753403   0.0248064 -0.00555823
+Curr R: 178.693 -179.185 -176.542 ,T =    0.01356 -0.0370988  -0.031614
+Iteration time: 6
+Motion blur = 0 | Cost = 0.01953| inlier_thr = 0.07 |blk_size = 67 | corner_num = 13 | surf_num = 70 | angle dis = 1.21 | T dis = 0.07 
+New added regtime 46.7832
+------------------
+Messgage time stamp = 1.79855
+Corner  total num 13 |  use 13 | rate = 100 % 
+Surface total num 92 |  use 92 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.582684e-02, Final cost: 1.471290e-02, Termination: CONVERGENCE
+Last R: 178.693 -179.185 -176.542 ,T =    0.01356 -0.0370988  -0.031614
+Curr R: 179.634 -179.475  -177.12 ,T = -0.00039424   0.0211901 -0.00809585
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01471| inlier_thr = 0.06 |blk_size = 85 | corner_num = 13 | surf_num = 92 | angle dis = 1.15 | T dis = 0.06 
+New added regtime 46.798
+------------------
+Messgage time stamp = 1.84831
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 77 |  use 77 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.021833e-02, Final cost: 8.703046e-03, Termination: CONVERGENCE
+Last R: 179.634 -179.475  -177.12 ,T = -0.00039424   0.0211901 -0.00809585
+Curr R:  3.00919 -0.773652   3.21854 ,T = 0.00622312 -0.0470095 -0.0907706
+Iteration time: 3
+Motion blur = 0 | Cost = 0.00870| inlier_thr = 0.05 |blk_size = 70 | corner_num = 10 | surf_num = 77 | angle dis = 3.41 | T dis = 0.11 
+New added regtime 46.8155
+------------------
+Messgage time stamp = 1.84841
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 77 |  use 77 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 1.757354e-02, Final cost: 1.680069e-02, Termination: CONVERGENCE
+Last R:  3.00919 -0.773652   3.21854 ,T = 0.00622312 -0.0470095 -0.0907706
+Curr R: 179.318 -179.511 -176.764 ,T =  -0.0252032   -0.101934 -0.00141208
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01680| inlier_thr = 0.07 |blk_size = 69 | corner_num = 8 | surf_num = 77 | angle dis = 3.71 | T dis = 0.11 
+New added regtime 46.8332
+------------------
+Messgage time stamp = 1.84848
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 80 |  use 80 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.689269e-02, Final cost: 1.589551e-02, Termination: CONVERGENCE
+Last R: 179.318 -179.511 -176.764 ,T =  -0.0252032   -0.101934 -0.00141208
+Curr R:0.385292 -0.61415  3.81441 ,T = -0.0197095 -0.0943301 -0.0158772
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01590| inlier_thr = 0.07 |blk_size = 73 | corner_num = 10 | surf_num = 80 | angle dis = 1.22 | T dis = 0.02 
+New added regtime 46.8481
+------------------
+Messgage time stamp = 1.89816
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 68 |  use 68 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.160104e-02, Final cost: 1.073302e-02, Termination: CONVERGENCE
+Last R:0.385292 -0.61415  3.81441 ,T = -0.0197095 -0.0943301 -0.0158772
+Curr R:  1.3063 -1.17228  2.99192 ,T =  0.0143893 -0.0805604 -0.0371554
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01073| inlier_thr = 0.06 |blk_size = 63 | corner_num = 10 | surf_num = 68 | angle dis = 1.36 | T dis = 0.04 
+New added regtime 46.8832
+------------------
+Messgage time stamp = 1.89825
+Corner  total num 10 |  use 10 | rate = 100 % 
+Surface total num 68 |  use 68 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 1.280743e-02, Final cost: 1.259128e-02, Termination: CONVERGENCE
+Last R:  1.3063 -1.17228  2.99192 ,T =  0.0143893 -0.0805604 -0.0371554
+Curr R: 0.851154 -0.708163   3.06474 ,T =  0.0231212 -0.0873908   0.010235
+Iteration time: 4
+Motion blur = 0 | Cost = 0.01259| inlier_thr = 0.07 |blk_size = 63 | corner_num = 10 | surf_num = 68 | angle dis = 0.65 | T dis = 0.05 
+New added regtime 46.8832
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.89833
+Corner  total num 3 |  use 3 | rate = 100 % 
+Surface total num 64 |  use 64 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.266389e-02, Final cost: 1.128419e-02, Termination: CONVERGENCE
+Last R:  1.3063 -1.17228  2.99192 ,T =  0.0143893 -0.0805604 -0.0371554
+Curr R:0.744008 0.940835   1.6215 ,T = 0.00646109   0.185263   0.181836
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01128| inlier_thr = 0.07 |blk_size = 54 | corner_num = 3 | surf_num = 64 | angle dis = 2.58 | T dis = 0.34 
+New added regtime 46.8982
+------------------
+Messgage time stamp = 1.94869
+Corner  total num 15 |  use 15 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.475913e-02, Final cost: 1.438944e-02, Termination: CONVERGENCE
+Last R:0.744008 0.940835   1.6215 ,T = 0.00646109   0.185263   0.181836
+Curr R: 2.48794 0.132202  2.64076 ,T =  0.0101231 -0.0308053  0.0532348
+Iteration time: 5
+Motion blur = 0 | Cost = 0.01439| inlier_thr = 0.07 |blk_size = 76 | corner_num = 15 | surf_num = 79 | angle dis = 2.18 | T dis = 0.25 
+New added regtime 46.9132
+------------------
+Messgage time stamp = 1.94886
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 73 |  use 73 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 1.758188e-02, Final cost: 1.695723e-02, Termination: CONVERGENCE
+Last R: 2.48794 0.132202  2.64076 ,T =  0.0101231 -0.0308053  0.0532348
+Curr R: 179.992 -179.484 -177.848 ,T = 0.00823585  0.0384832  -0.014873
+Iteration time: 7
+Motion blur = 0 | Cost = 0.01696| inlier_thr = 0.07 |blk_size = 65 | corner_num = 8 | surf_num = 73 | angle dis = 2.64 | T dis = 0.10 
+New added regtime 46.9483
+------------------
+Messgage time stamp = 1.94894
+Corner  total num 8 |  use 8 | rate = 100 % 
+Surface total num 73 |  use 73 | rate = 100 % 
+Ceres Solver Report: Iterations: 2, Initial cost: 1.418541e-02, Final cost: 1.344782e-02, Termination: CONVERGENCE
+Last R: 179.992 -179.484 -177.848 ,T = 0.00823585  0.0384832  -0.014873
+Curr R:  179.81 -179.555 -177.847 ,T =  0.000743301    0.0420266 -0.000129783
+Iteration time: 1
+Motion blur = 0 | Cost = 0.01345| inlier_thr = 0.06 |blk_size = 65 | corner_num = 8 | surf_num = 73 | angle dis = 0.20 | T dis = 0.02 
+New added regtime 46.9483
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.99832
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 71 |  use 71 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.025599e-02, Final cost: 9.229795e-03, Termination: CONVERGENCE
+Last R: 179.992 -179.484 -177.848 ,T = 0.00823585  0.0384832  -0.014873
+Curr R:  1.50299 -0.513328   2.14324 ,T =   0.0012106 -0.00424597  -0.0689013
+Iteration time: 6
+Motion blur = 0 | Cost = 0.00923| inlier_thr = 0.07 |blk_size = 65 | corner_num = 9 | surf_num = 71 | angle dis = 1.52 | T dis = 0.07 
+New added regtime 46.9832
+------------------
+Messgage time stamp = 1.99842
+Corner  total num 9 |  use 9 | rate = 100 % 
+Surface total num 71 |  use 71 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 9.165915e-03, Final cost: 8.040507e-03, Termination: CONVERGENCE
+Last R:  1.50299 -0.513328   2.14324 ,T =   0.0012106 -0.00424597  -0.0689013
+Curr R:  2.21035 -0.293664   2.14052 ,T =  0.00863194 -0.00365311  -0.0648882
+Iteration time: 0
+Motion blur = 0 | Cost = 0.00804| inlier_thr = 0.06 |blk_size = 65 | corner_num = 9 | surf_num = 71 | angle dis = 0.74 | T dis = 0.01 
+New added regtime 46.9832
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 1.9985
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.173405e-02, Final cost: 1.095281e-02, Termination: CONVERGENCE
+Last R:  1.50299 -0.513328   2.14324 ,T =   0.0012106 -0.00424597  -0.0689013
+Curr R: 0.55293 0.228526  2.61766 ,T =   0.0230978   -0.132256 -0.00832722
+Iteration time: 15
+Motion blur = 0 | Cost = 0.01095| inlier_thr = 0.07 |blk_size = 69 | corner_num = 6 | surf_num = 79 | angle dis = 1.30 | T dis = 0.14 
+New added regtime 47.0158
+------------------
+Messgage time stamp = 2.04821
+Corner  total num 6 |  use 6 | rate = 100 % 
+Surface total num 79 |  use 79 | rate = 100 % 
+Ceres Solver Report: Iterations: 3, Initial cost: 1.041580e-02, Final cost: 1.016837e-02, Termination: CONVERGENCE
+Last R: 0.55293 0.228526  2.61766 ,T =   0.0230978   -0.132256 -0.00832722
+Curr R: 0.22168 0.267598  2.19082 ,T =   0.00690281   -0.0727517 -0.000798367
+Iteration time: 1
+Motion blur = 0 | Cost = 0.01017| inlier_thr = 0.05 |blk_size = 69 | corner_num = 6 | surf_num = 79 | angle dis = 0.54 | T dis = 0.06 
+New added regtime 47.0158
+***** older update, reject update pose *****
+------------------
+Messgage time stamp = 2.04829
