@@ -1,0 +1,9 @@
+<launch>
+
+    <node pkg="tf2_ros" type="static_transform_publisher" name="base_link_to_localizer" args="0 0 0 0 0 0 base_link camera_init"/>
+    <!-- <node pkg="tf2_ros" type="static_transform_publisher" name="base_link_to_localizer" args="0 0 1.9 3.1415926 0 0 base_link ouster"/> -->
+    <!-- <node pkg="tf2_ros" type="static_transform_publisher" name="base_link_to_world" args="0 0 0 0 0 0 base_link world"/> -->
+    <!-- <node pkg="tf2_ros" type="static_transform_publisher" name="base_link_to_map" args="0 0 0 0 0 0 base_link map"/> -->
+    <node pkg="tf2_ros" type="static_transform_publisher" name="world_to_map" args="0 0 0 0 0 0 map world" />
+     <node pkg="tf2_ros" type="static_transform_publisher" name="ouster_to_odom" args="0 0 0 0 0 0 camera_init odom"/>
+</launch>
